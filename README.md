@@ -1,3 +1,4 @@
+![Github Banner](https://github.com/maddyali/readme-assets/blob/main/profile-images/banner.png)
 <p align="center">
 👋🏽 Hi, I'm a full stack software engineer from Houston, TX.
 <br>
