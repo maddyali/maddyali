@@ -56,3 +56,40 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br />
 <br />
+<!-- CONTACT -->
+<h2 align="center" color="white">Let's connect!</h2>
+<p align="center">
+	<a href="https://www.instagram.com/alithetechie/" target="_blank">
+		<img
+			src="https://github.com/maddyali/readme-assets/blob/main/profile-images/socials/instagram.svg"
+			alt="Instagram"
+      width="40px"
+			style="padding-left: 10px"
+		/>
+	</a>
+ 
+  <a href="https://www.linkedin.com/in/maddyali/" target="_blank">
+		<img
+			src="https://github.com/maddyali/readme-assets/blob/main/profile-images/socials/linkedin.svg"
+			alt="Linkedin"
+      width="40px"
+		/>
+	</a>
+
+	<a href="https://twitter.com/alithetechie" target="_blank">
+		<img
+			src="https://github.com/maddyali/readme-assets/blob/main/profile-images/socials/twitter.svg"
+			alt="Twitter"
+      width="40px"
+			style="padding-left: 10px"
+		/>
+	</a>
+
+	<a href="mailto:maddyoali@gmail.com" target="_blank">
+		<img
+			src="https://github.com/maddyali/readme-assets/blob/main/profile-images/socials/gmail.svg"
+			alt="email: maddyoali@gmail.com" width="40px"
+		/>
+	</a>
+</p>
+
