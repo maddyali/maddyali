@@ -25,9 +25,9 @@ You can click the Preview link to take a look at your changes.
         <h2 align="center" color="white">Frontend </h2>
           <br>
           <div align="center">
-            <img src="https://github.com/maddyali/readme-assets/blob/main/profile-images/tech-stack/react.svg" alt="React" height="50" />
-            <img src="https://github.com/maddyali/readme-assets/blob/main/profile-images/tech-stack/javascript.svg" alt="Javascript" height="50" />
-            <img src="https://github.com/maddyali/readme-assets/blob/main/profile-images/tech-stack/html5.svg" alt="HTML5" height="50" />
+            <img src="https://github.com/maddyali/readme-assets/blob/main/profile-images/tech-stack/react.svg" alt="React" height="52" />
+            <img src="https://github.com/maddyali/readme-assets/blob/main/profile-images/tech-stack/javascript.svg" alt="Javascript" height="52" />
+            <img src="https://github.com/maddyali/readme-assets/blob/main/profile-images/tech-stack/html5.svg" alt="HTML5" height="52" />
             <br>
             <img src="https://github.com/maddyali/readme-assets/blob/main/profile-images/tech-stack/css3.svg" alt="css3" height="55" />
           </div>
