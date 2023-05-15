@@ -11,10 +11,91 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
 </div>
 
 
-<!---
-maddyali/maddyali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!-- PROJECTS -->
+ <h2 align="center" color="white">Projects</h2>
+    <div align="center">
+      <table>
+        <tr>
+          <td width="50%">
+            <h3 align="center">Coding Resources API</h3>
+            <div align="center">
+              <a
+                href="https://github.com/maddyali/coding-resources-api"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  width="50%"
+                  src="https://github.com/maddyali/readme-assets/blob/main/project-gifs/coding-resources.gif"
+                  alt="Coding Resources API"
+                />
+              </a>
+              <div>
+                <a
+                  href="https://github.com/maddyali/coding-resources-api"
+                  target="_blank"
+                  rel="noreferrer"
+                  ><img
+                    src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub"
+                    alt="Repo"
+                    height="25px"
+                /></a>
+                <a
+                  href="https://the-coding-resources-api.up.railway.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                  ><img
+                    src="https://img.shields.io/badge/%20-Live%20Site-149ddd?style=for-the-badge&logo"
+                    alt="Live site"
+                    height="25px"
+                /></a>
+              </div>
+              <p align="center">**JavaScript, Node, Express, EJS**<br>This API serves educational resources relevant to software engineering. Search for relevant keywords.</p>
+            </div>
+          </td>
+          <td width="50%">
+            <h3 align="center">Fullstack Bank</h3>
+            <div align="center">
+              <a
+                href="https://github.com/maddyali/fullstack-bank"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  width="50%"
+                  src="https://github.com/maddyali/readme-assets/blob/main/project-gifs/fs-bank.gif"
+                  alt="Fullstack Bank"
+                />
+              </a>
+              <div>
+                <a
+                  href="https://github.com/maddyali/fullstack-bank"
+                  target="_blank"
+                  rel="noreferrer"
+                  ><img
+                    src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub"
+                    alt="Repo"
+                    height="25px"
+                /></a>
+                <a
+                  href="#"
+                  target="_blank"
+                  rel="noreferrer"
+                  ><img
+                    src="https://img.shields.io/badge/%20-Live%20Site-149ddd?style=for-the-badge&logo"
+                    alt="Live site"
+                    height="25px"
+                /></a>
+              </div>
+              <p align="center">**JavaScript, Node, Express, EJS**<br>A fullstack CRUD question bank. Ace the coding interview by creating new technical or behavioral flashcards,  updating existing ones, or deleting those you've mastered.</p>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+
 
 <!-- LANGUAGES & TOOLS -->
 <h2 align="center" color="white">Languages & Tools</h2>
