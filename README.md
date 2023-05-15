@@ -88,7 +88,7 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
                     height="25px"
                 /></a>
               </div>
-              <p align="center"><b>JavaScript, Node, Express, EJS</b><br>Fullstack CRUD question bank. Create new flashcards, update existing ones, or delete those you've mastered for the interview.</p>
+              <p align="center"><b>JavaScript, Node, Express, EJS</b><br>Fullstack CRUD question bank. Create new flashcards, update existing ones, or delete cards you've mastered for the interview.</p>
             </div>
           </td>
         </tr>
