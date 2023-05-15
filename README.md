@@ -51,11 +51,11 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
                     height="25px"
                 /></a>
               </div>
-              <p align="center">**JavaScript, Node, Express, EJS**<br>This API serves educational resources relevant to software engineering. Search for relevant keywords.</p>
+              <p align="center"><b>JavaScript, Node, Express, EJS</b><br>This API serves educational resources relevant to software engineering. Search for relevant keywords.</p>
             </div>
           </td>
           <td width="50%">
-            <h3 align="center">Fullstack Bank</h3>
+            <h3 align="center">Full Stack Bank</h3>
             <div align="center">
               <a
                 href="https://github.com/maddyali/fullstack-bank"
@@ -88,7 +88,7 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
                     height="25px"
                 /></a>
               </div>
-              <p align="center">**JavaScript, Node, Express, EJS**<br>A fullstack CRUD question bank. Ace the coding interview by creating new technical or behavioral flashcards,  updating existing ones, or deleting those you've mastered.</p>
+              <p align="center"><b>JavaScript, Node, Express, EJS</b><br>Fullstack CRUD question bank. Create new flashcards, update existing ones, or delete those you've mastered for the interview.</p>
             </div>
           </td>
         </tr>
