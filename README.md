@@ -16,8 +16,8 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
  <h2 align="center" color="white">Projects</h2>
     <div align="center">
       <table>
-        <tr>
-          <td width="50%">
+       <tr>
+        <!--   <td width="50%">
             <h3 align="center">Coding Resources API</h3>
             <div align="center">
               <a
@@ -53,7 +53,7 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
               </div>
               <p align="center"><b>JavaScript, Node, Express, EJS</b><br>This API serves educational resources relevant to software engineering. Search for relevant keywords.</p>
             </div>
-          </td>
+          </td>  -->
           <td width="50%">
             <h3 align="center">Full Stack Bank</h3>
             <div align="center">
