@@ -17,43 +17,6 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
     <div align="center">
       <table>
        <tr>
-        <!--   <td width="50%">
-            <h3 align="center">Coding Resources API</h3>
-            <div align="center">
-              <a
-                href="https://github.com/maddyali/coding-resources-api"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <img
-                  width="50%"
-                  src="https://github.com/maddyali/readme-assets/blob/main/project-gifs/coding-resources.gif"
-                  alt="Coding Resources API"
-                />
-              </a>
-              <div>
-                <a
-                  href="https://github.com/maddyali/coding-resources-api"
-                  target="_blank"
-                  rel="noreferrer"
-                  ><img
-                    src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub"
-                    alt="Repo"
-                    height="25px"
-                /></a>
-                <a
-                  href="https://the-coding-resources-api.up.railway.app/"
-                  target="_blank"
-                  rel="noreferrer"
-                  ><img
-                    src="https://img.shields.io/badge/%20-Live%20Site-149ddd?style=for-the-badge&logo"
-                    alt="Live site"
-                    height="25px"
-                /></a>
-              </div>
-              <p align="center"><b>JavaScript, Node, Express, EJS</b><br>This API serves educational resources relevant to software engineering. Search for relevant keywords.</p>
-            </div>
-          </td>  -->
           <td width="50%">
             <h3 align="center">Full Stack Bank</h3>
             <div align="center">
