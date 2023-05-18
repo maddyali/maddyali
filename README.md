@@ -42,7 +42,7 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
                     height="25px"
                 /></a>
                 <a
-                  href="#"
+                  href="https://fullstack-bank.up.railway.app/"
                   target="_blank"
                   rel="noreferrer"
                   ><img
