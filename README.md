@@ -2,13 +2,10 @@
 <p align="center">
 👋🏽 Hi, I'm a full stack software engineer from Houston, TX.
 <br>
-I'm currently learning and building with HTML, CSS, Javascript, and the MERN stack. 
+I'm currently learning and building with HTML, CSS, JavaScript, and the MERN stack. 
 <br>
 Let’s chat! Whether you're looking to collaborate, or just have a conversation with a good friend you haven’t met yet, get in touch!
 </p>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maddyali&hide_border=true&currStreakNum=c9d1d9&ring=ffffff&background=0d1117&sideLabels=ffffff&sideNums=ffffff&fire=149ddd&currStreakLabel=c9d1d9&dates=0d1117">
-</div>
 
 
 
@@ -17,8 +14,10 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
     <div align="center">
       <table>
        <tr>
+           <!-- PROJECT -->
           <td width="50%">
             <h3 align="center">Full Stack Bank</h3>
+            <!-- PROJECT GIF -->
             <div align="center">
               <a
                 href="https://github.com/maddyali/fullstack-bank"
@@ -32,6 +31,7 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
                 />
               </a>
               <div>
+              <!-- PROJECT LINK: GITHUB -->
                 <a
                   href="https://github.com/maddyali/fullstack-bank"
                   target="_blank"
@@ -41,6 +41,7 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
                     alt="Repo"
                     height="25px"
                 /></a>
+                 <!-- PROJECT LINK: DEMO -->
                 <a
                   href="https://fullstack-bank.up.railway.app/"
                   target="_blank"
@@ -54,6 +55,49 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
               <p align="center"><b>JavaScript, Node, Express, EJS</b><br>Fullstack CRUD question bank. Create new flashcards, update existing ones, or delete cards you've mastered for the interview.</p>
             </div>
           </td>
+          <!-- PROJECT END -->
+          <!-- PROJECT -->
+          <td width="50%">
+            <h3 align="center">Full Stack Bank</h3>
+            <!-- PROJECT GIF -->
+            <div align="center">
+              <a
+                href="https://github.com/maddyali/fullstack-bank"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  width="50%"
+                  src="https://github.com/maddyali/readme-assets/blob/main/project-gifs/fs-bank.gif"
+                  alt="Fullstack Bank"
+                />
+              </a>
+              <div>
+              <!-- PROJECT LINK: GITHUB -->
+                <a
+                  href="https://github.com/maddyali/fullstack-bank"
+                  target="_blank"
+                  rel="noreferrer"
+                  ><img
+                    src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub"
+                    alt="Repo"
+                    height="25px"
+                /></a>
+                 <!-- PROJECT LINK: DEMO -->
+                <a
+                  href="https://fullstack-bank.up.railway.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                  ><img
+                    src="https://img.shields.io/badge/%20-Live%20Site-149ddd?style=for-the-badge&logo"
+                    alt="Live site"
+                    height="25px"
+                /></a>
+              </div>
+              <p align="center"><b>JavaScript, Node, Express, EJS</b><br>Fullstack CRUD question bank. Create new flashcards, update existing ones, or delete cards you've mastered for the interview.</p>
+            </div>
+          </td>
+          <!-- PROJECT END -->
         </tr>
       </table>
     </div>
