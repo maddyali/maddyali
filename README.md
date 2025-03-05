@@ -16,24 +16,24 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
        <tr>
            <!-- PROJECT -->
           <td width="50%">
-            <h3 align="center">Full Stack Bank</h3>
+            <h3 align="center">Setup Champs</h3>
             <!-- PROJECT GIF -->
             <div align="center">
               <a
-                href="https://github.com/maddyali/fullstack-bank"
+                href="https://github.com/maddyali/setup-champs"
                 target="_blank"
                 rel="noreferrer"
               >
                 <img
                   width="50%"
-                  src="https://github.com/maddyali/readme-assets/blob/main/project-gifs/fs-bank.gif"
-                  alt="Fullstack Bank"
+                  src="https://github.com/maddyali/readme-assets/blob/main/project-gifs/setup-champs.gif"
+                  alt="Setup Champs Project Gif"
                 />
               </a>
               <div>
               <!-- PROJECT LINK: GITHUB -->
                 <a
-                  href="https://github.com/maddyali/fullstack-bank"
+                  href="https://github.com/maddyali/setup-champs"
                   target="_blank"
                   rel="noreferrer"
                   ><img
@@ -43,7 +43,7 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
                 /></a>
                  <!-- PROJECT LINK: DEMO -->
                 <a
-                  href="https://fullstack-bank.up.railway.app/"
+                  href="https://setup-champs.onrender.com/"
                   target="_blank"
                   rel="noreferrer"
                   ><img
@@ -52,30 +52,30 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
                     height="25px"
                 /></a>
               </div>
-              <p align="center"><b>JavaScript, Node, Express, EJS</b><br>Fullstack CRUD question bank. Create new flashcards, update existing ones, or delete cards you've mastered for the interview.</p>
+              <p align="center"><b>JS, Node, Express, MongoDB, Passport.js, Cloudinary</b><br>Setup Champs is a fullstack app that let's you share and discover unique desk setups. Users can browse, upload, like, and bookmark posts for later.</p>
             </div>
           </td>
           <!-- PROJECT END -->
           <!-- PROJECT -->
           <td width="50%">
-            <h3 align="center">Full Stack Bank</h3>
+            <h3 align="center">Crypto Signal</h3>
             <!-- PROJECT GIF -->
             <div align="center">
               <a
-                href="https://github.com/maddyali/fullstack-bank"
+                href="https://github.com/maddyali/crypto-signal"
                 target="_blank"
                 rel="noreferrer"
               >
                 <img
                   width="50%"
-                  src="https://github.com/maddyali/readme-assets/blob/main/project-gifs/fs-bank.gif"
-                  alt="Fullstack Bank"
+                  src="https://github.com/maddyali/readme-assets/blob/main/project-gifs/crypto-signal.gif"
+                  alt="Crypto Signal Gif"
                 />
               </a>
               <div>
               <!-- PROJECT LINK: GITHUB -->
                 <a
-                  href="https://github.com/maddyali/fullstack-bank"
+                  href="https://github.com/maddyali/crypto-signal"
                   target="_blank"
                   rel="noreferrer"
                   ><img
@@ -85,7 +85,7 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
                 /></a>
                  <!-- PROJECT LINK: DEMO -->
                 <a
-                  href="https://fullstack-bank.up.railway.app/"
+                  href="https://crypto-signal-app.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                   ><img
@@ -94,7 +94,7 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
                     height="25px"
                 /></a>
               </div>
-              <p align="center"><b>JavaScript, Node, Express, EJS</b><br>Fullstack CRUD question bank. Create new flashcards, update existing ones, or delete cards you've mastered for the interview.</p>
+              <p align="center"><b>CSS, React</b><br>Crypto Signal is an app that fetches real-time cryptocurrency data using the CoinGecko API. Users can search for any coin and get up-to-date prices, market data, and a detailed description.</p>
             </div>
           </td>
           <!-- PROJECT END -->
