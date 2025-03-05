@@ -145,15 +145,6 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
 <!-- CONTACT -->
 <h2 align="center" color="white">Let's connect!</h2>
 <p align="center">
-  <a href="https://www.instagram.com/alithetechie/" target="_blank">
-    <img
-      src="https://github.com/maddyali/readme-assets/blob/main/profile-images/socials/instagram.svg"
-      alt="Instagram"
-      width="40px"
-      style="padding-left: 10px"
-    />
-  </a>
-
   <a href="https://www.linkedin.com/in/maddyali/" target="_blank">
     <img
       src="https://github.com/maddyali/readme-assets/blob/main/profile-images/socials/linkedin.svg"
@@ -161,17 +152,17 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
       width="40px"
     />
   </a>
-
-  <a href="https://twitter.com/alithetechie" target="_blank">
+ 
+  <a href="https://www.instagram.com/builtbyali/" target="_blank">
     <img
-      src="https://github.com/maddyali/readme-assets/blob/main/profile-images/socials/twitter.svg"
-      alt="Twitter"
+      src="https://github.com/maddyali/readme-assets/blob/main/profile-images/socials/instagram.svg"
+      alt="Instagram"
       width="40px"
       style="padding-left: 10px"
     />
   </a>
-
-  <a href="mailto:maddyoali@gmail.com" target="_blank">
+ 
+  <a href="mailto:maddyoali+career@gmail.com" target="_blank">
     <img
       src="https://github.com/maddyali/readme-assets/blob/main/profile-images/socials/gmail.svg"
       alt="email: maddyoali@gmail.com"
