@@ -52,7 +52,7 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
                     height="25px"
                 /></a>
               </div>
-              <p align="center"><b>JS, Node, Express, MongoDB, Passport.js, Cloudinary</b><br>Setup Champs is a fullstack app that let's you share and discover unique desk setups. Users can browse, upload, like, and bookmark posts for later.</p>
+              <p align="center">A fullstack MERN app to share and discover unique desk setups.<br>Built authentication, image hosting, and CRUD features with Node, Express, MongoDB, Passport.js, and Cloudinary.<br>Users can browse, like, upload, and bookmark.</p>
             </div>
           </td>
           <!-- PROJECT END -->
@@ -94,7 +94,9 @@ Let’s chat! Whether you're looking to collaborate, or just have a conversation
                     height="25px"
                 /></a>
               </div>
-              <p align="center"><b>CSS, React</b><br>Crypto Signal is an app that fetches real-time cryptocurrency data using the CoinGecko API. Users can search for any coin and get up-to-date prices, market data, and a detailed description.</p>
+              <p align="center">A React app that fetches real-time cryptocurrency data from the CoinGecko API.
+Built with React and CSS, it features live search, dynamic coin details, and a responsive UI.
+Users can get up-to-date prices, market stats, and descriptions.</p>
             </div>
           </td>
           <!-- PROJECT END -->
