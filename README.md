@@ -2,9 +2,9 @@
 <p align="center">
 👋 Hi, I'm a full stack software developer from Houston, TX.
 <br>
-I'm currently building with HTML, CSS, JavaScript, and the MERN stack. 
+Currently building with HTML, CSS, JavaScript, and the MERN stack. 
 <br>
-Let’s chat! Whether you're looking to collaborate, or just have a conversation with a good friend you haven’t met yet, get in touch!
+Open to collaboration and new opportunities. Let's connect!
 </p>
 
 
