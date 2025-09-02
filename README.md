@@ -52,7 +52,7 @@ Open to collaboration and new opportunities. Let's connect!
                     height="25px"
                 /></a>
               </div>
-              <p align="center">A fullstack MERN app to share and discover unique desk setups.<br>Built authentication, image hosting, and CRUD features with Node, Express, MongoDB, Passport.js, and Cloudinary.<br>Users can browse, like, upload, and bookmark.</p>
+              <p align="center">A fullstack MERN app to share and discover unique desk setups.Built authentication, image hosting, and CRUD features with Node, Express, MongoDB, Passport.js, and Cloudinary. Users can browse, like, upload, and bookmark.</p>
             </div>
           </td>
           <!-- PROJECT END -->
