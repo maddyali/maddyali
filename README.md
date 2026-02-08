@@ -1,6 +1,6 @@
 
 <p align="center">
-👋 Hi, I'm a full stack software developer from Houston, TX.
+👋 Hi, I'm a self-taught full stack software developer from Houston, TX.
 <br>
 Currently building with HTML, CSS, JavaScript, and the MERN stack. 
 <br>
